@@ -2,7 +2,7 @@
 
 This repository includes the following directories:
 
-* Prompts: includes all the prompts used for fine-tuning, inference, and evaluation.
 * Dataset: includes the fine-tuning dataset and test dataset.
-* Scripts: includes all python code used for fine-tuning and inference.
-* Results: includes all the test file and the corresponding inferred templates as well as the evaluation results. 
+* Prompts: includes all the prompts used for fine-tuning, inference, and evaluation.
+* Results: includes the test file, the inferred templates from each model under different configuration settings, and the evaluation results. 
+* Scripts: includes the python scripts used for fine-tuning and inference.
